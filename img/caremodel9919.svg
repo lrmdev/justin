@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 900 600" enable-background="new 0 0 900 600" xml:space="preserve">
+<g>
+	<rect y="-0.8" fill="#00768C" width="900" height="600"/>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="350.3483" cy="524.6609" r="34.6367" gradientTransform="matrix(1.9118 0 0 1.6594 -590.844 -601.4642)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_1_)" cx="78.9" cy="269.2" rx="66.2" ry="57.5"/>
+		<g>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="78.9376" y1="311.6501" x2="78.9376" y2="255.5895">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_2_)" d="M126.7,276.9l-3.3-0.8c0.2-1.2,0.4-2.3,0.5-3.5l3.4,0c1.7,0,3.1-1.2,3.1-2.7v-1.3
+				c0-1.5-1.4-2.7-3.1-2.7l-3.4,0c-0.1-1.2-0.3-2.4-0.5-3.5l3.3-0.8c1.7-0.4,2.6-1.9,2.2-3.3l-0.4-1.3c-0.4-1.4-2.1-2.3-3.8-1.9
+				l-3.3,0.8c-0.5-1.1-1-2.2-1.6-3.3l2.9-1.5c1.5-0.7,2-2.4,1.1-3.7l-0.8-1.2c-0.9-1.3-2.8-1.7-4.2-1l-2.9,1.5
+				c-0.8-1-1.6-1.9-2.5-2.8l2.4-2.1c1.2-1.1,1.2-2.8,0-3.8l-1.1-1c-1.2-1.1-3.2-1.1-4.4,0l-2.4,2.1c-1-0.8-2.1-1.5-3.2-2.2l1.7-2.5
+				c0.9-1.3,0.4-2.9-1.1-3.7l-1.3-0.7c-1.5-0.7-3.4-0.3-4.2,1l-1.7,2.5c-1.2-0.5-2.5-0.9-3.8-1.4l0.9-2.8c0.4-1.4-0.5-2.9-2.2-3.3
+				l-1.5-0.3c-1.7-0.4-3.4,0.5-3.8,1.9l-0.9,2.8c-1.3-0.2-2.7-0.4-4-0.5l0-2.9c0-1.5-1.4-2.7-3.1-2.7l-1.5,0c-1.7,0-3.1,1.2-3.1,2.7
+				l0,2.9c-1.4,0.1-2.7,0.3-4,0.5l-0.9-2.8c-0.4-1.4-2.1-2.3-3.8-1.9l-1.5,0.3c-1.7,0.4-2.6,1.9-2.2,3.3l0.9,2.8
+				c-1.3,0.4-2.5,0.9-3.8,1.4l-1.7-2.5c-0.9-1.3-2.8-1.7-4.2-1l-1.3,0.7c-1.5,0.7-2,2.4-1.1,3.7l1.7,2.5c-1.1,0.7-2.2,1.4-3.2,2.1
+				l-2.4-2.1c-1.2-1.1-3.2-1.1-4.4,0l-1.1,1c-1.2,1.1-1.2,2.8,0,3.8l2.4,2.1c-0.9,0.9-1.7,1.8-2.5,2.8l-2.9-1.5
+				c-1.5-0.7-3.4-0.3-4.2,1l-0.8,1.2c-0.9,1.3-0.4,2.9,1.1,3.7l2.9,1.5c-0.6,1.1-1.1,2.2-1.6,3.3l-3.3-0.8c-1.7-0.4-3.4,0.5-3.8,1.9
+				l-0.4,1.3c-0.4,1.4,0.5,2.9,2.2,3.3l3.3,0.8c-0.2,1.2-0.4,2.3-0.5,3.5l-3.4,0c-1.7,0-3.1,1.2-3.1,2.7v1.3c0,1.5,1.4,2.7,3.1,2.7
+				l3.4,0c0.1,1.2,0.3,2.4,0.5,3.5l-3.3,0.8c-1.7,0.4-2.6,1.9-2.2,3.3l0.4,1.3c0.4,1.4,2.1,2.3,3.8,1.9l3.3-0.8
+				c0.5,1.1,1,2.2,1.6,3.3l-2.9,1.5c-1.5,0.7-2,2.4-1.1,3.7l0.8,1.2c0.9,1.3,2.8,1.7,4.2,1l2.9-1.5c0.8,1,1.6,1.9,2.5,2.8l-2.4,2.1
+				c-1.2,1.1-1.2,2.8,0,3.8l1.1,1c1.2,1.1,3.2,1.1,4.4,0l2.4-2.1c1,0.8,2.1,1.5,3.2,2.2l-1.7,2.5c-0.9,1.3-0.4,2.9,1.1,3.7l1.3,0.7
+				c1.5,0.7,3.4,0.3,4.2-1l1.7-2.5c1.2,0.5,2.5,0.9,3.8,1.4l-0.9,2.8c-0.4,1.4,0.5,2.9,2.2,3.3l1.5,0.3c1.7,0.4,3.4-0.5,3.8-1.9
+				l0.9-2.8c1.4,0.2,2.7,0.4,4,0.5l0,2.9c0,1.5,1.4,2.7,3.1,2.7l1.6,0c1.7,0,3.1-1.2,3.1-2.7l0-2.9c1.4-0.1,2.7-0.3,4-0.5l0.9,2.8
+				c0.4,1.4,2.1,2.3,3.8,1.9l1.5-0.3c1.7-0.4,2.6-1.9,2.2-3.3l-0.9-2.8c1.3-0.4,2.5-0.9,3.8-1.4l1.7,2.5c0.9,1.3,2.8,1.7,4.2,1
+				l1.3-0.7c1.5-0.7,2-2.4,1.1-3.7l-1.7-2.5c1.1-0.7,2.2-1.4,3.2-2.1l2.4,2.1c1.2,1.1,3.2,1.1,4.4,0l1.1-0.9c1.2-1.1,1.2-2.8,0-3.8
+				l-2.4-2.1c0.9-0.9,1.7-1.8,2.5-2.8l2.9,1.5c1.5,0.7,3.4,0.3,4.2-1l0.8-1.2c0.9-1.3,0.4-2.9-1.1-3.7l-2.9-1.5
+				c0.6-1.1,1.1-2.2,1.6-3.3l3.3,0.8c1.7,0.4,3.4-0.5,3.8-1.9l0.4-1.3C129.4,278.7,128.4,277.2,126.7,276.9z"/>
+			
+				<radialGradient id="SVGID_3_" cx="350.162" cy="529.9303" r="26.2035" fx="350.8725" fy="536.8624" gradientTransform="matrix(1.9118 0 0 1.6594 -590.844 -601.4642)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_3_)" cx="78.9" cy="269.1" rx="37.9" ry="32.9"/>
+			<ellipse fill="none" cx="78.9" cy="269.1" rx="36.7" ry="31.9"/>
+			<ellipse fill="none" cx="78.9" cy="284.2" rx="35.9" ry="31.1"/>
+			<text transform="matrix(1.1476 0 0 1 51.5103 268.7876)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7.3431">Advanced Care</tspan><tspan x="-5.3" y="8.8" font-family="'MyriadPro-Regular'" font-size="7.3431">       If Necessary</tspan></text>
+		</g>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_4_" cx="735.3276" cy="347.7881" r="49.637" gradientTransform="matrix(1.3708 0 0 1.3494 -533.001 -381.2925)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_4_)" cx="475" cy="88" rx="68" ry="67"/>
+		<g>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="475.0109" y1="142.7821" x2="475.0109" y2="70.6899">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_5_)" d="M529.2,98l-3.7-1c0.3-1.5,0.5-3,0.6-4.5l3.8,0c1.9,0,3.5-1.5,3.5-3.5v-1.7c0-1.9-1.6-3.5-3.5-3.5
+				l-3.8,0c-0.1-1.5-0.3-3-0.6-4.5l3.7-1c1.9-0.5,3-2.4,2.5-4.2l-0.5-1.7c-0.5-1.8-2.4-2.9-4.3-2.5l-3.7,1c-0.5-1.4-1.1-2.8-1.8-4.2
+				l3.3-1.9c1.7-1,2.3-3.1,1.3-4.7l-0.9-1.5c-1-1.7-3.1-2.2-4.8-1.3l-3.3,1.9c-0.9-1.2-1.8-2.4-2.8-3.6L517,53
+				c1.4-1.4,1.4-3.5,0-4.9l-1.2-1.2c-1.4-1.4-3.6-1.4-5,0l-2.7,2.7c-1.2-1-2.4-1.9-3.7-2.8l1.9-3.3c1-1.7,0.4-3.8-1.3-4.7l-1.5-0.9
+				c-1.7-1-3.8-0.4-4.8,1.3l-1.9,3.3c-1.4-0.6-2.8-1.2-4.3-1.7l1-3.6c0.5-1.8-0.6-3.7-2.5-4.2l-1.7-0.5c-1.9-0.5-3.8,0.6-4.3,2.4
+				l-1,3.6c-1.5-0.3-3.1-0.5-4.6-0.6l0-3.8c0-1.9-1.6-3.5-3.5-3.5l-1.8,0c-1.9,0-3.5,1.5-3.5,3.5l0,3.8c-1.5,0.1-3.1,0.3-4.6,0.6
+				l-1-3.6c-0.5-1.8-2.4-2.9-4.3-2.5l-1.7,0.4c-1.9,0.5-3,2.4-2.5,4.2l1,3.6c-1.4,0.5-2.9,1.1-4.3,1.7l-1.9-3.3
+				c-1-1.7-3.1-2.2-4.8-1.3l-1.5,0.9c-1.7,1-2.3,3.1-1.3,4.7l1.9,3.3c-1.3,0.9-2.5,1.8-3.7,2.8l-2.7-2.7c-1.4-1.4-3.6-1.4-5,0
+				l-1.2,1.2c-1.4,1.4-1.4,3.5,0,4.9l2.7,2.7c-1,1.2-1.9,2.4-2.8,3.6l-3.3-1.9c-1.7-1-3.8-0.4-4.8,1.3l-0.9,1.5
+				c-1,1.7-0.4,3.8,1.3,4.7l3.3,1.9c-0.6,1.4-1.2,2.8-1.8,4.2l-3.7-1c-1.9-0.5-3.8,0.6-4.3,2.4l-0.5,1.7c-0.5,1.8,0.6,3.7,2.5,4.2
+				l3.7,1c-0.3,1.5-0.5,3-0.6,4.5l-3.8,0c-1.9,0-3.5,1.5-3.5,3.5V89c0,1.9,1.6,3.5,3.5,3.5l3.8,0c0.1,1.5,0.3,3,0.6,4.5l-3.7,1
+				c-1.9,0.5-3,2.4-2.5,4.2l0.5,1.7c0.5,1.8,2.4,2.9,4.3,2.5l3.7-1c0.5,1.4,1.1,2.8,1.8,4.2l-3.3,1.9c-1.7,1-2.3,3.1-1.3,4.7
+				l0.9,1.5c1,1.7,3.1,2.2,4.8,1.3l3.3-1.9c0.9,1.2,1.8,2.4,2.8,3.6l-2.7,2.7c-1.4,1.4-1.4,3.5,0,4.9l1.2,1.2c1.4,1.4,3.6,1.4,5,0
+				l2.7-2.7c1.2,1,2.4,1.9,3.7,2.8l-1.9,3.3c-1,1.7-0.4,3.8,1.3,4.7l1.5,0.9c1.7,1,3.8,0.4,4.8-1.3l1.9-3.3c1.4,0.6,2.8,1.2,4.3,1.7
+				l-1,3.6c-0.5,1.8,0.6,3.7,2.5,4.2l1.7,0.5c1.9,0.5,3.8-0.6,4.3-2.4l1-3.6c1.5,0.3,3.1,0.5,4.6,0.6l0,3.8c0,1.9,1.6,3.5,3.5,3.5
+				l1.8,0c1.9,0,3.5-1.5,3.5-3.5l0-3.8c1.5-0.1,3.1-0.3,4.6-0.6l1,3.6c0.5,1.8,2.4,2.9,4.3,2.5l1.7-0.4c1.9-0.5,3-2.4,2.5-4.2
+				l-1-3.6c1.5-0.5,2.9-1.1,4.3-1.7l1.9,3.3c1,1.7,3.1,2.2,4.8,1.3l1.5-0.9c1.7-1,2.3-3.1,1.3-4.7l-1.9-3.3c1.3-0.9,2.5-1.8,3.7-2.8
+				l2.7,2.7c1.4,1.4,3.6,1.4,5,0l1.2-1.2c1.4-1.4,1.4-3.5,0-4.9l-2.7-2.7c1-1.2,1.9-2.4,2.8-3.6l3.3,1.9c1.7,1,3.8,0.4,4.8-1.3
+				l0.9-1.5c1-1.7,0.4-3.8-1.3-4.7l-3.3-1.9c0.6-1.4,1.2-2.8,1.8-4.2l3.7,1c1.9,0.5,3.8-0.6,4.3-2.4l0.5-1.7
+				C532.2,100.4,531.1,98.5,529.2,98z"/>
+			
+				<radialGradient id="SVGID_6_" cx="735.0344" cy="356.2278" r="41.4384" fx="736.1579" fy="367.1903" gradientTransform="matrix(1.3708 0 0 1.3494 -533.001 -381.2925)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_6_)" cx="475" cy="88" rx="43" ry="42.3"/>
+			<ellipse fill="none" cx="475" cy="88" rx="40.7" ry="40"/>
+		</g>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_7_" cx="721.6356" cy="523.3192" r="49.6369" gradientTransform="matrix(2.1268 0 0 1.7327 -1069.5149 -610.9268)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_7_)" cx="465.2" cy="295.8" rx="105.6" ry="86"/>
+		<g>
+			<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="465.2387" y1="366.1192" x2="465.2387" y2="273.5529">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_8_)" d="M549.3,308.7l-5.7-1.3c0.4-1.9,0.7-3.9,1-5.8l5.9,0c3,0,5.5-2,5.5-4.4l0-2.2
+				c0-2.5-2.4-4.4-5.4-4.4l-5.9,0c-0.2-2-0.5-3.9-0.9-5.8l5.7-1.2c2.9-0.6,4.6-3.1,3.9-5.4l-0.7-2.1c-0.8-2.4-3.8-3.8-6.7-3.1
+				l-5.7,1.2c-0.8-1.8-1.7-3.6-2.7-5.4l5.2-2.4c2.6-1.2,3.5-3.9,2-6.1l-1.4-1.9c-1.5-2.1-4.8-2.9-7.5-1.6l-5.2,2.4
+				c-1.4-1.6-2.8-3.1-4.4-4.6l4.2-3.4c2.1-1.7,2.1-4.5,0-6.3l-1.9-1.6c-2.1-1.7-5.6-1.7-7.7,0l-4.2,3.4c-1.8-1.3-3.7-2.4-5.7-3.6
+				l3-4.2c1.5-2.1,0.6-4.8-2-6.1l-2.4-1.1c-2.6-1.2-5.9-0.5-7.5,1.6l-3,4.2c-2.1-0.8-4.4-1.6-6.6-2.2l1.5-4.7
+				c0.8-2.4-0.9-4.8-3.9-5.4l-2.6-0.6c-2.9-0.6-5.9,0.8-6.7,3.1l-1.5,4.7c-2.4-0.3-4.7-0.6-7.1-0.8l0-4.8c0-2.5-2.4-4.4-5.5-4.4
+				l-2.7,0c-3,0-5.5,2-5.5,4.4l0,4.8c-2.4,0.2-4.8,0.4-7.1,0.8l-1.5-4.7c-0.8-2.4-3.8-3.8-6.7-3.1l-2.6,0.6
+				c-2.9,0.6-4.6,3.1-3.9,5.4l1.5,4.7c-2.2,0.7-4.5,1.4-6.6,2.2l-3-4.2c-1.5-2.1-4.8-2.9-7.5-1.6l-2.4,1.1c-2.6,1.2-3.5,3.9-2,6.1
+				l3,4.2c-2,1.1-3.9,2.3-5.7,3.5l-4.2-3.4c-2.1-1.7-5.6-1.7-7.7,0l-1.9,1.6c-2.1,1.7-2.1,4.6,0,6.3l4.2,3.4c-1.5,1.5-3,3-4.4,4.6
+				l-5.1-2.4c-2.6-1.2-5.9-0.5-7.5,1.6l-1.4,1.9c-1.5,2.1-0.6,4.8,2,6.1l5.1,2.4c-1,1.7-1.9,3.6-2.7,5.4l-5.7-1.3
+				c-2.9-0.6-5.9,0.8-6.7,3.1l-0.7,2.1c-0.8,2.4,0.9,4.8,3.9,5.4l5.7,1.3c-0.4,1.9-0.7,3.9-1,5.8l-5.9,0c-3,0-5.5,2-5.5,4.4v2.2
+				c0,2.5,2.4,4.4,5.5,4.5l5.9,0c0.2,2,0.5,3.9,0.9,5.8l-5.7,1.2c-2.9,0.6-4.6,3.1-3.9,5.4l0.7,2.1c0.8,2.4,3.8,3.8,6.7,3.1l5.7-1.3
+				c0.8,1.8,1.7,3.6,2.7,5.4l-5.2,2.4c-2.6,1.2-3.5,3.9-2,6.1l1.4,1.9c1.5,2.1,4.8,2.9,7.4,1.6l5.2-2.4c1.4,1.6,2.8,3.1,4.4,4.6
+				l-4.2,3.4c-2.1,1.7-2.1,4.6,0,6.3l1.9,1.6c2.1,1.7,5.6,1.7,7.7,0l4.2-3.4c1.8,1.3,3.7,2.4,5.7,3.6l-3,4.2c-1.5,2.1-0.6,4.8,2,6.1
+				l2.4,1.1c2.6,1.2,6,0.5,7.5-1.6l3-4.2c2.1,0.8,4.4,1.6,6.6,2.2l-1.5,4.7c-0.8,2.4,0.9,4.8,3.9,5.4l2.6,0.6
+				c2.9,0.6,5.9-0.8,6.7-3.1l1.5-4.7c2.4,0.3,4.7,0.6,7.1,0.8l0,4.8c0,2.5,2.4,4.4,5.4,4.5l2.7,0c3,0,5.5-2,5.5-4.4l0-4.8
+				c2.4-0.2,4.8-0.4,7.1-0.8l1.5,4.7c0.8,2.4,3.8,3.8,6.7,3.1l2.6-0.6c2.9-0.6,4.6-3.1,3.9-5.4l-1.5-4.7c2.2-0.7,4.5-1.4,6.6-2.2
+				l3,4.2c1.5,2.1,4.8,2.9,7.5,1.6l2.4-1.1c2.6-1.2,3.5-3.9,2-6.1l-3-4.2c2-1.1,3.9-2.3,5.7-3.5l4.2,3.4c2.1,1.7,5.6,1.7,7.7,0
+				l1.9-1.6c2.1-1.7,2.1-4.5,0-6.3l-4.2-3.4c1.5-1.5,3-3,4.4-4.6l5.1,2.4c2.6,1.2,6,0.5,7.5-1.6l1.4-1.9c1.5-2.1,0.6-4.8-2-6.1
+				l-5.1-2.4c1-1.8,1.9-3.6,2.7-5.4l5.7,1.3c2.9,0.6,5.9-0.8,6.7-3.1l0.7-2.1C553.9,311.7,552.2,309.3,549.3,308.7z"/>
+			
+				<radialGradient id="SVGID_9_" cx="721.3411" cy="531.7598" r="41.4386" fx="722.4645" fy="542.7223" gradientTransform="matrix(2.1268 0 0 1.7327 -1069.5149 -610.9268)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_9_)" cx="465.2" cy="295.8" rx="66.7" ry="54.3"/>
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="465.2387" y1="380.3343" x2="465.2387" y2="248.7554">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<ellipse fill="url(#SVGID_10_)" cx="465.2" cy="295.8" rx="64.6" ry="52.7"/>
+			
+				<radialGradient id="SVGID_11_" cx="721.3572" cy="531.3093" r="47.1782" fx="722.6362" fy="543.7902" gradientTransform="matrix(2.1268 0 0 1.7327 -1069.5149 -610.9268)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_11_)" cx="465.2" cy="295.8" rx="63.1" ry="51.4"/>
+		</g>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_12_" cx="470.9847" cy="180.2772" r="34.637" gradientTransform="matrix(1.6331 0.5124 -0.7145 1.1712 -564.0311 -405.7748)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path fill="url(#SVGID_12_)" d="M132.9,64.5c-13.7,22.4-50.1,32.6-81.3,22.8C20.3,77.5,6.1,51.4,19.8,29S69.8-3.7,101.1,6.1
+			C132.3,16,146.6,42.1,132.9,64.5z"/>
+		<g>
+			
+				<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="47.4465" y1="111.7563" x2="47.4465" y2="65.6721" gradientTransform="matrix(0.9162 0.4008 -0.4008 0.9162 63.6661 -43.7234)">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_13_)" d="M113.9,63.9l-2.5-1.4c0.7-0.8,1.4-1.5,2-2.3l2.9,0.9c1.5,0.5,3.2,0,3.8-1.1l0.6-0.9
+				c0.6-1,0-2.3-1.5-2.7l-2.9-0.9c0.4-0.9,0.8-1.7,1.1-2.6l3.1,0.3c1.6,0.2,3.1-0.6,3.3-1.7l0.2-1c0.2-1.1-0.8-2.2-2.4-2.4l-3.1-0.3
+				c0.1-0.9,0.1-1.8,0.1-2.7l3.1-0.2c1.6-0.1,2.7-1.2,2.6-2.3l-0.2-1c-0.2-1.1-1.6-2-3.2-1.8l-3.1,0.2c-0.2-0.9-0.5-1.8-0.9-2.6
+				l2.9-0.8c1.5-0.4,2.2-1.6,1.6-2.7l-0.5-1c-0.6-1.1-2.3-1.6-3.7-1.2l-2.9,0.8c-0.6-0.8-1.2-1.6-1.8-2.4l2.5-1.3
+				c1.3-0.7,1.6-2,0.6-2.9l-0.9-0.8c-0.9-0.9-2.8-1.1-4-0.4l-2.5,1.3c-0.8-0.7-1.7-1.3-2.6-2l2-1.8c1-0.9,0.8-2.2-0.4-2.9l-1.1-0.6
+				c-1.2-0.7-3.1-0.6-4.1,0.3l-2,1.8c-1.1-0.5-2.1-1-3.2-1.4l1.3-2.1c0.6-1,0-2.3-1.5-2.7L95,13.9c-1.5-0.5-3.2,0-3.8,1.1L89.9,17
+				c-1.2-0.3-2.4-0.5-3.7-0.8l0.5-2.2c0.2-1.1-0.8-2.2-2.4-2.4l-1.4-0.2c-1.6-0.2-3.1,0.6-3.3,1.7l-0.5,2.2
+				c-1.3-0.1-2.5-0.1-3.8-0.1L75,13.2c-0.2-1.1-1.6-2-3.2-1.8l-1.4,0.1c-1.6,0.1-2.7,1.2-2.6,2.3l0.3,2.2c-1.2,0.2-2.5,0.4-3.7,0.6
+				l-1.1-2.1c-0.6-1.1-2.3-1.6-3.7-1.2l-1.3,0.4c-1.5,0.4-2.2,1.6-1.6,2.7l1.1,2.1c-1.1,0.4-2.2,0.8-3.3,1.3l-1.9-1.8
+				c-0.9-0.9-2.8-1.1-4-0.4l-1.2,0.6c-1.3,0.7-1.6,2-0.6,2.9l1.9,1.8c-0.9,0.6-1.9,1.2-2.7,1.9l-2.5-1.4c-1.2-0.7-3.1-0.6-4.1,0.3
+				l-0.9,0.8c-1,0.9-0.8,2.2,0.4,2.9l2.5,1.4c-0.7,0.8-1.4,1.5-2,2.3l-2.9-0.9c-1.5-0.5-3.2,0-3.8,1.1L32,32.3c-0.6,1,0,2.3,1.5,2.7
+				l2.9,0.9c-0.4,0.9-0.8,1.7-1.1,2.6l-3.1-0.3c-1.6-0.2-3.1,0.6-3.3,1.7l-0.2,1c-0.2,1.1,0.8,2.2,2.4,2.4l3.1,0.3
+				c-0.1,0.9-0.1,1.8-0.1,2.7L31,46.7c-1.6,0.1-2.7,1.1-2.6,2.3l0.2,1c0.2,1.1,1.6,2,3.2,1.8l3.1-0.2c0.2,0.9,0.5,1.8,0.9,2.6
+				l-2.9,0.8c-1.5,0.4-2.2,1.6-1.6,2.7l0.5,1c0.6,1.1,2.3,1.6,3.7,1.2l2.9-0.8c0.6,0.8,1.2,1.6,1.8,2.4l-2.5,1.3
+				c-1.3,0.7-1.6,2-0.6,2.9l0.9,0.8c0.9,0.9,2.8,1.1,4,0.4l2.5-1.3c0.8,0.7,1.7,1.3,2.6,2l-2,1.8c-1,0.9-0.8,2.2,0.4,2.9l1.1,0.6
+				c1.2,0.7,3.1,0.6,4.1-0.3l2-1.8c1.1,0.5,2.1,1,3.3,1.4l-1.3,2.1c-0.6,1,0,2.3,1.5,2.7l1.3,0.4c1.5,0.5,3.2,0,3.8-1.1l1.3-2.1
+				c1.2,0.3,2.4,0.5,3.7,0.8l-0.5,2.2c-0.2,1.1,0.8,2.2,2.4,2.4l1.4,0.2c1.6,0.2,3.1-0.6,3.3-1.7l0.5-2.2c1.3,0.1,2.5,0.1,3.8,0.1
+				l0.3,2.2c0.2,1.1,1.6,2,3.2,1.8l1.4-0.1c1.6-0.1,2.7-1.2,2.6-2.3l-0.3-2.2c1.2-0.2,2.5-0.4,3.7-0.6l1.1,2.1
+				c0.6,1.1,2.3,1.6,3.7,1.2l1.3-0.4c1.5-0.4,2.2-1.6,1.6-2.7L95,72.8c1.1-0.4,2.2-0.8,3.3-1.3l1.9,1.8c0.9,0.9,2.8,1.1,4,0.4
+				l1.2-0.6c1.3-0.7,1.6-2,0.6-2.9l-1.9-1.8c0.9-0.6,1.9-1.2,2.7-1.9l2.5,1.4c1.2,0.7,3.1,0.6,4.1-0.3l0.9-0.8
+				C115.3,65.9,115.1,64.6,113.9,63.9z"/>
+			
+				<radialGradient id="SVGID_14_" cx="470.4784" cy="184.8128" r="26.2038" fx="471.1888" fy="191.7449" gradientTransform="matrix(1.6331 0.5124 -0.7145 1.1712 -564.0311 -405.7748)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<path fill="url(#SVGID_14_)" d="M108.8,55.8c-7.8,12.8-28.7,18.7-46.5,13.1c-17.9-5.6-26-20.6-18.2-33.4
+				c7.8-12.8,28.7-18.7,46.5-13.1C108.4,28,116.6,42.9,108.8,55.8z"/>
+			
+				<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="47.4591" y1="119.0798" x2="47.4591" y2="53.1909" gradientTransform="matrix(0.9162 0.4008 -0.4008 0.9162 63.6661 -43.7234)">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_15_)" d="M107.8,55.5C100.2,67.9,80,73.6,62.7,68.1C45.3,62.7,37.4,48.2,45,35.8s27.8-18.1,45.1-12.7
+				C107.4,28.5,115.4,43,107.8,55.5z"/>
+			<path fill="none" d="M62.7,36.5h30c1.3,0,2.4,0.8,2.4,1.7v17.1c0,0.9-1.1,1.7-2.4,1.7h-30c-1.3,0-2.4-0.8-2.4-1.7V38.2
+				C60.3,37.2,61.3,36.5,62.7,36.5z"/>
+			<text transform="matrix(1.3943 0 0 1 60.2866 43.9739)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="8.949">START  </tspan><tspan x="0" y="10.7" font-family="'MyriadPro-Regular'" font-size="8.949">HERE</tspan></text>
+		</g>
+	</g>
+	<text transform="matrix(1.2169 0 0 1 367.7505 528.8083)"><tspan x="0" y="0" fill="#65C8D0" font-family="'RobotoSlab-Thin'" font-size="38.7765" letter-spacing="-1.6">Boothby</tspan><tspan x="22.3" y="30.9" fill="#8CC63F" font-family="'RobotoSlab-Thin'" font-size="39.6225" letter-spacing="-1.6">CARE</tspan><tspan x="48.5" y="41.5" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="11.1386">Model</tspan></text>
+	<g>
+		
+			<radialGradient id="SVGID_16_" cx="1002.9758" cy="795.9977" r="102.0137" gradientTransform="matrix(1.9951 0 0 1.5571 -1307.2714 -798.1855)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_16_)" cx="693.8" cy="441.2" rx="203.5" ry="158.8"/>
+		<g>
+			<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="693.7667" y1="576.0176" x2="693.7667" y2="398.1222">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_17_)" d="M862.4,465.6l-11.5-2.4c0.9-3.7,1.5-7.4,1.9-11.1l11.9,0c6,0,11-3.8,11-8.5l0-4.3
+				c0-4.7-4.9-8.5-10.9-8.5l-11.9,0c-0.4-3.7-1-7.5-1.9-11.1l11.5-2.4c5.8-1.2,9.3-5.9,7.8-10.5l-1.4-4.1c-1.6-4.6-7.6-7.3-13.4-6
+				l-11.5,2.4c-1.6-3.5-3.5-7-5.5-10.4l10.3-4.7c5.2-2.4,7-7.6,4-11.7l-2.7-3.7c-3-4.1-9.7-5.5-14.9-3.1l-10.4,4.7
+				c-2.7-3.1-5.7-6-8.7-8.9l8.5-6.6c4.3-3.3,4.3-8.7,0-12.1l-3.9-3c-4.3-3.3-11.2-3.3-15.5,0l-8.4,6.6c-3.7-2.4-7.5-4.7-11.4-6.9
+				l6-8c3-4.1,1.2-9.3-4-11.7l-4.7-2.1c-5.2-2.4-11.9-1-15,3.1l-6,8c-4.3-1.6-8.8-3-13.3-4.3l3.1-9c1.6-4.6-1.9-9.2-7.7-10.5
+				l-5.3-1.1c-5.8-1.2-11.8,1.5-13.4,6l-3.1,9c-4.8-0.7-9.5-1.2-14.3-1.5l0-9.3c0-4.7-4.9-8.5-10.9-8.5l-5.5,0c-6,0-10.9,3.8-11,8.5
+				l0,9.3c-4.8,0.3-9.6,0.8-14.3,1.5l-3.1-9c-1.6-4.6-7.6-7.3-13.4-6.1l-5.3,1.1c-5.8,1.2-9.3,5.9-7.8,10.5l3.1,9
+				c-4.5,1.3-9,2.7-13.3,4.3l-6-8.1c-3-4.1-9.7-5.5-14.9-3.1l-4.7,2.1c-5.2,2.4-7,7.6-4,11.7l6,8.1c-3.9,2.1-7.7,4.4-11.4,6.8
+				l-8.4-6.6c-4.3-3.3-11.2-3.3-15.5,0l-3.9,3c-4.3,3.3-4.3,8.7,0,12.1l8.4,6.6c-3.1,2.9-6,5.8-8.8,8.9l-10.3-4.7
+				c-5.2-2.4-11.9-1-15,3.1l-2.7,3.7c-3,4.1-1.2,9.3,4,11.7l10.3,4.7c-2,3.4-3.8,6.8-5.5,10.4l-11.5-2.4c-5.8-1.2-11.8,1.5-13.4,6
+				l-1.4,4.1c-1.6,4.6,1.9,9.2,7.7,10.5l11.5,2.4c-0.9,3.7-1.5,7.4-1.9,11.1l-11.9,0c-6,0-10.9,3.8-11,8.5l0,4.3
+				c0,4.7,4.9,8.5,10.9,8.6l11.9,0c0.4,3.7,1,7.5,1.9,11.1l-11.5,2.4c-5.8,1.2-9.3,5.9-7.7,10.5l1.4,4.1c1.6,4.6,7.6,7.3,13.4,6.1
+				l11.5-2.4c1.6,3.5,3.5,7,5.5,10.4l-10.4,4.7c-5.2,2.4-7,7.6-4,11.7l2.7,3.7c3,4.1,9.7,5.5,14.9,3.1l10.3-4.6
+				c2.7,3.1,5.7,6,8.7,8.9l-8.5,6.6c-4.3,3.3-4.3,8.7,0,12.1l3.9,3c4.3,3.3,11.2,3.3,15.5,0l8.4-6.6c3.7,2.4,7.5,4.7,11.4,6.9l-6,8
+				c-3,4.1-1.2,9.3,4,11.7l4.7,2.1c5.2,2.4,11.9,1,15-3.1l6-8c4.3,1.6,8.8,3,13.3,4.3l-3.1,9c-1.6,4.6,1.9,9.2,7.7,10.5l5.3,1.1
+				c5.8,1.2,11.8-1.5,13.4-6l3.1-9c4.8,0.7,9.5,1.2,14.3,1.5l0,9.3c0,4.7,4.9,8.6,10.9,8.6l5.5,0c6,0,11-3.8,11-8.5l0-9.3
+				c4.8-0.3,9.6-0.8,14.3-1.5l3.1,9c1.6,4.6,7.6,7.3,13.4,6.1l5.3-1.1c5.8-1.2,9.3-5.9,7.8-10.5l-3.1-9c4.5-1.3,9-2.7,13.3-4.3
+				l6,8.1c3,4.1,9.7,5.5,14.9,3.1l4.7-2.1c5.2-2.4,7-7.6,4-11.7l-6-8.1c3.9-2.1,7.7-4.4,11.4-6.8l8.4,6.6c4.3,3.3,11.2,3.3,15.5,0
+				l3.9-3c4.3-3.3,4.3-8.7,0-12.1l-8.4-6.6c3.1-2.9,6-5.8,8.8-8.9l10.3,4.6c5.2,2.4,11.9,1,15-3.1l2.7-3.7c3-4.1,1.2-9.3-4-11.7
+				l-10.3-4.7c2-3.4,3.8-6.8,5.5-10.4l11.5,2.4c5.8,1.2,11.8-1.5,13.4-6l1.4-4.1C871.7,471.5,868.3,466.8,862.4,465.6z"/>
+			
+				<radialGradient id="SVGID_18_" cx="1002.3103" cy="814.9211" r="94.0226" fx="1004.8594" fy="839.7946" gradientTransform="matrix(1.9951 0 0 1.5571 -1307.2714 -798.1855)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_18_)" cx="693.8" cy="440.9" rx="141.9" ry="110.8"/>
+			<g>
+				<path fill="#B65489" d="M827.9,441.2c0,57.8-60,104.7-134.1,104.7c-74.1,0-134.1-46.9-134.1-104.7c0-57.8,60-104.7,134.1-104.7
+					C767.8,336.6,827.9,383.4,827.9,441.2z"/>
+				
+					<radialGradient id="SVGID_19_" cx="1002.4689" cy="803.3751" r="89.2376" gradientTransform="matrix(1.9951 0 0 1.5571 -1307.2714 -798.1855)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.6365" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</radialGradient>
+				<path fill="url(#SVGID_19_)" d="M827.9,441.2c0,57.8-60,104.7-134.1,104.7c-74.1,0-134.1-46.9-134.1-104.7
+					c0-57.8,60-104.7,134.1-104.7C767.8,336.6,827.9,383.4,827.9,441.2z"/>
+			</g>
+		</g>
+		
+			<text transform="matrix(1.2813 0 0 1 649.8945 369.2177)" fill="#FFFFFF" font-family="'RobotoSlab-Bold'" font-size="17.2626" letter-spacing="-0.8">Strength</text>
+		<rect x="633.2" y="379" fill="none" width="165.5" height="155"/>
+		<text transform="matrix(1.2813 0 0 1 633.1708 385.1161)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313"> Is a key factor in performance and </tspan><tspan x="0" y="10.4" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">must be emphasized during train</tspan><tspan x="119.2" y="10.4" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">-</tspan><tspan x="0" y="20.7" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">ing to increase the force produced </tspan><tspan x="0" y="31.1" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">by muscle contraction.  Helps to </tspan><tspan x="0" y="41.4" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">increase the strength of our bones </tspan><tspan x="0" y="51.8" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">and other soft tissue (Tendons &amp; </tspan><tspan x="0" y="62.1" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">Ligaments).  Increases our daily </tspan><tspan x="0" y="72.5" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">calorie expenditure and maintains </tspan><tspan x="0" y="82.9" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">appropriate body composition.  </tspan><tspan x="0" y="93.2" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">Strength is vital aspect of all short </tspan><tspan x="0" y="103.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">and intense energy outputs, and </tspan><tspan x="0" y="113.9" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">the foundation of all athletic </tspan><tspan x="0" y="124.3" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">qualities.  Strength also helps to </tspan><tspan x="0" y="134.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8.6313">reduce the risk of injury.</tspan></text>
+		
+			<text transform="matrix(1.2813 0 0 1 578.374 449.1766)" fill="#FFFFFF" font-family="'Bebas'" font-size="43.5113" letter-spacing="-0.8">3</text>
+		<g>
+			<rect x="618.9" y="379" fill="#FFFFFF" width="1.1" height="111.9"/>
+		</g>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_20_" cx="553.47" cy="756.7629" r="111.9906" gradientTransform="matrix(1.7615 0 0 1.398 -760.6345 -628.3351)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path fill="url(#SVGID_20_)" d="M411.6,429.6c0,86.5-88.3,156.6-197.3,156.6c-109,0-197.3-70.1-197.3-156.6
+			c0-86.5,88.3-156.6,197.3-156.6C323.2,273.1,411.6,343.1,411.6,429.6z"/>
+		<g>
+			
+				<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="229.0577" y1="575.9946" x2="229.0577" y2="395.3893" gradientTransform="matrix(0.9855 0.1699 -0.1699 0.9855 63.1719 -42.0943)">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_21_)" d="M373.6,476.3l-10.7-3.9c1.6-3.6,3.1-7.2,4.3-10.8l11.6,1.6c5.9,0.8,11.5-2.3,12.5-7l0.9-4.2
+				c1-4.7-2.9-9.1-8.8-9.9l-11.6-1.6c0.4-3.8,0.6-7.5,0.6-11.3l11.8-0.8c6-0.4,10.4-4.6,9.8-9.3l-0.5-4.3c-0.5-4.7-5.8-8.2-11.8-7.8
+				l-11.8,0.8c-0.8-3.7-1.9-7.4-3.1-11l11.1-3.2c5.6-1.6,8.5-6.6,6.4-11l-1.9-4c-2.1-4.5-8.3-6.7-13.9-5.1l-11.1,3.2
+				c-2-3.4-4.2-6.8-6.6-10l9.7-5.4c4.9-2.7,6.1-8.1,2.6-12l-3.1-3.5c-3.4-3.9-10.2-4.8-15.1-2.1l-9.6,5.4c-3-2.9-6.3-5.7-9.7-8.3
+				l7.6-7.2c3.8-3.7,3.2-9.1-1.4-12.1l-4.2-2.8c-4.6-3-11.4-2.6-15.3,1.1l-7.6,7.2c-3.9-2.1-7.9-4.1-12.1-6l5-8.5
+				c2.5-4.3,0.2-9.4-5.3-11.4l-4.9-1.8c-5.4-2-11.9-0.1-14.4,4.2l-5,8.5c-4.5-1.3-9-2.4-13.6-3.4l2-9.2c1-4.7-2.9-9.1-8.8-9.9
+				l-5.3-0.7c-5.9-0.8-11.5,2.3-12.5,7l-2,9.2c-4.8-0.3-9.5-0.5-14.2-0.5l-1.1-9.3c-0.5-4.7-5.8-8.2-11.8-7.8l-5.4,0.4
+				c-6,0.4-10.4,4.6-9.8,9.3l1.1,9.3c-4.7,0.7-9.3,1.5-13.9,2.5l-4.1-8.8c-2.1-4.5-8.3-6.7-13.9-5.1l-5.1,1.5
+				c-5.6,1.6-8.5,6.6-6.4,11l4.1,8.8c-4.3,1.6-8.5,3.3-12.6,5.2l-6.8-7.7c-3.4-3.9-10.2-4.8-15.1-2.1l-4.4,2.5
+				c-4.9,2.7-6.1,8.1-2.6,12l6.8,7.7c-3.6,2.4-7.1,5-10.5,7.7l-9-6c-4.6-3-11.4-2.6-15.3,1.1l-3.5,3.3c-3.8,3.6-3.2,9.1,1.4,12.1
+				l9.1,6c-2.7,3.1-5.2,6.3-7.6,9.6l-10.7-3.9c-5.4-2-11.9-0.1-14.4,4.2l-2.3,3.9c-2.5,4.3-0.1,9.4,5.3,11.4l10.7,3.9
+				c-1.6,3.6-3.1,7.2-4.3,10.8l-11.6-1.6c-5.9-0.8-11.5,2.3-12.5,7l-0.9,4.2c-1,4.7,2.9,9.1,8.8,9.9l11.6,1.6
+				c-0.4,3.8-0.6,7.5-0.6,11.3L44.4,431c-6,0.4-10.4,4.6-9.8,9.3l0.5,4.3c0.5,4.7,5.8,8.2,11.8,7.8l11.8-0.8c0.8,3.7,1.9,7.4,3.1,11
+				l-11.1,3.2c-5.6,1.6-8.5,6.6-6.4,11l1.9,4c2.1,4.5,8.3,6.7,13.9,5.1l11.1-3.2c2,3.4,4.2,6.8,6.6,10l-9.7,5.4
+				c-4.9,2.7-6.1,8.1-2.6,12l3.1,3.5c3.4,3.9,10.2,4.8,15.1,2.1l9.6-5.4c3,2.9,6.3,5.7,9.7,8.3l-7.6,7.2c-3.8,3.6-3.2,9.1,1.4,12.1
+				l4.2,2.8c4.6,3,11.4,2.6,15.3-1.1l7.6-7.2c3.9,2.1,7.9,4.1,12.1,6l-5,8.5c-2.5,4.3-0.2,9.4,5.3,11.4l4.9,1.8
+				c5.4,2,11.9,0.1,14.4-4.2l5-8.5c4.5,1.3,9,2.4,13.6,3.4l-2,9.2c-1,4.7,2.9,9.1,8.8,10l5.3,0.7c5.9,0.8,11.5-2.3,12.5-7l2-9.2
+				c4.8,0.3,9.5,0.5,14.2,0.5l1.1,9.3c0.5,4.7,5.8,8.2,11.8,7.8l5.4-0.4c6-0.4,10.4-4.6,9.8-9.3l-1.1-9.3c4.7-0.7,9.3-1.5,13.9-2.5
+				l4.1,8.8c2.1,4.5,8.3,6.7,13.9,5.1l5.1-1.5c5.6-1.6,8.5-6.6,6.4-11l-4.1-8.8c4.3-1.6,8.5-3.3,12.6-5.2l6.8,7.7
+				c3.5,3.9,10.2,4.8,15.1,2.1l4.4-2.5c4.9-2.7,6.1-8.1,2.6-12l-6.8-7.7c3.6-2.4,7.1-5,10.5-7.7l9,6c4.6,3,11.4,2.6,15.3-1.1
+				l3.5-3.3c3.8-3.6,3.2-9.1-1.4-12.1l-9.1-6c2.7-3.1,5.2-6.3,7.6-9.6l10.7,3.9c5.4,2,11.9,0.1,14.4-4.2l2.3-3.9
+				C381.4,483.4,379.1,478.3,373.6,476.3z"/>
+			
+				<radialGradient id="SVGID_22_" cx="552.724" cy="777.986" r="105.4534" fx="555.583" fy="805.8835" gradientTransform="matrix(1.7615 0 0 1.398 -760.6345 -628.3351)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_22_)" cx="214.3" cy="429.3" rx="140.5" ry="111.5"/>
+			<g>
+				<path fill="#F47920" d="M347.1,429.6c0,58.2-59.5,105.4-132.8,105.4c-73.3,0-132.8-47.2-132.8-105.4
+					c0-58.2,59.5-105.4,132.8-105.4C287.6,324.2,347.1,371.4,347.1,429.6z"/>
+				
+					<radialGradient id="SVGID_23_" cx="552.9022" cy="765.0353" r="100.0859" gradientTransform="matrix(1.7615 0 0 1.398 -760.6345 -628.3351)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.6365" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</radialGradient>
+				<path fill="url(#SVGID_23_)" d="M347.1,429.6c0,58.2-59.5,105.4-132.8,105.4c-73.3,0-132.8-47.2-132.8-105.4
+					c0-58.2,59.5-105.4,132.8-105.4C287.6,324.2,347.1,371.4,347.1,429.6z"/>
+			</g>
+		</g>
+		<text transform="matrix(1.26 0 0 1 173.2637 360.6905)" fill="#FFFFFF" font-family="'RobotoSlab-Bold'" font-size="15.499">Power</text>
+		<rect x="167.6" y="378.6" fill="none" width="146.6" height="125.3"/>
+		<text transform="matrix(1.26 0 0 1 167.6104 384.0743)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">Our most important Performance </tspan><tspan x="0" y="9.3" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">Factor for high level athletes.  You </tspan><tspan x="0" y="18.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">must be explosive!  In order to be </tspan><tspan x="0" y="27.9" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">explosive consistently you must </tspan><tspan x="0" y="37.2" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">master the first 3 stages of our </tspan><tspan x="0" y="46.5" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">training program in order for you to </tspan><tspan x="0" y="55.8" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">adequately recover from power </tspan><tspan x="0" y="65.1" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">based efforts and maintain the level </tspan><tspan x="0" y="74.4" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">of intensity needed to perform at a </tspan><tspan x="0" y="83.7" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">high level.  Power is developed by </tspan><tspan x="0" y="93" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">increasing the rate force is devel</tspan><tspan x="103.9" y="93" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">-</tspan><tspan x="0" y="102.3" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="7.7495">oped.</tspan></text>
+		
+			<text transform="matrix(1.26 0 0 1 100.0674 432.2765)" fill="#FFFFFF" font-family="'Bebas'" font-size="39.0661" letter-spacing="-0.8">4</text>
+		<g>
+			<rect x="158.6" y="374.3" fill="#FFFFFF" width="1" height="101.1"/>
+		</g>
+	</g>
+	<g>
+		
+			<radialGradient id="SVGID_24_" cx="1070.0569" cy="407.4514" r="111.9911" gradientTransform="matrix(1.5258 0 0 1.191 -925.8298 -344.578)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+			<stop  offset="0.1805" style="stop-color:#484848"/>
+			<stop  offset="0.3403" style="stop-color:#808080"/>
+			<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+			<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+			<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+			<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_24_)" cx="706.9" cy="140.7" rx="170.9" ry="133.4"/>
+		<g>
+			
+				<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="708.287" y1="294.8845" x2="708.287" y2="141.1805" gradientTransform="matrix(0.9884 -0.1518 0.1518 0.9884 -20.2801 71.8497)">
+				<stop  offset="0" style="stop-color:#E1E8EC"/>
+				<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path fill="url(#SVGID_25_)" d="M853.9,144.2l-10.2-0.9c0.1-3.2,0-6.5-0.2-9.6l10.1-1.2c5.1-0.6,8.6-4.3,7.9-8.4l-0.7-3.6
+				c-0.8-4-5.6-6.8-10.7-6.1l-10.1,1.2c-1-3.1-2.1-6.2-3.4-9.3l9.4-3.2c4.7-1.6,6.9-5.9,4.8-9.7l-1.9-3.4c-2.1-3.7-7.6-5.4-12.4-3.8
+				l-9.4,3.2c-2-2.8-4.1-5.6-6.4-8.2l8-5c4.1-2.5,4.7-7.1,1.5-10.3l-2.9-2.9C824,60,818.1,59.5,814,62l-8,5
+				c-2.8-2.3-5.8-4.6-8.9-6.7l6.1-6.4c3.1-3.3,2.2-7.8-2-10.2l-3.8-2.2c-4.2-2.4-10.1-1.7-13.1,1.6l-6.1,6.4
+				c-3.5-1.7-7.1-3.2-10.8-4.7l3.7-7.4c1.9-3.8-0.5-8-5.3-9.5l-4.4-1.3c-4.8-1.5-10.3,0.4-12.2,4.2l-3.7,7.4
+				c-3.9-0.9-7.9-1.7-12-2.3l1.1-7.9c0.6-4-3.1-7.6-8.3-8.1l-4.7-0.4c-5.2-0.4-9.8,2.5-10.4,6.5l-1.1,7.9c-4.1-0.1-8.3,0-12.3,0.2
+				l-1.5-7.9c-0.8-4-5.6-6.7-10.7-6.1l-4.6,0.6c-5.1,0.6-8.6,4.3-7.9,8.3l1.5,7.9c-4,0.8-8,1.7-11.9,2.7l-4.1-7.3
+				c-2.1-3.7-7.6-5.4-12.4-3.8l-4.3,1.5c-4.7,1.6-6.9,5.9-4.8,9.7l4.1,7.3c-3.6,1.5-7.1,3.2-10.6,5l-6.4-6.2
+				c-3.2-3.2-9.2-3.7-13.2-1.1l-3.7,2.3c-4,2.5-4.7,7.1-1.5,10.3l6.4,6.2c-3,2.2-5.8,4.5-8.5,6.9l-8.2-4.7
+				c-4.2-2.4-10.1-1.7-13.1,1.6l-2.8,3c-3.1,3.3-2.2,7.8,2,10.2L590,85c-2.1,2.7-4.1,5.5-6,8.4l-9.5-2.9c-4.8-1.5-10.3,0.4-12.2,4.2
+				l-1.7,3.4c-1.9,3.8,0.5,8,5.3,9.5l9.5,2.9c-1.2,3.1-2.1,6.2-2.9,9.4l-10.2-0.9c-5.2-0.4-9.8,2.5-10.4,6.5l-0.5,3.6
+				c-0.6,4,3.1,7.6,8.3,8.1l10.2,0.9c-0.1,3.2,0,6.5,0.2,9.6l-10.1,1.2c-5.1,0.6-8.6,4.3-7.9,8.3l0.7,3.6c0.8,4,5.6,6.7,10.7,6.1
+				l10.1-1.2c1,3.1,2.1,6.2,3.4,9.3l-9.4,3.2c-4.7,1.6-6.9,5.9-4.8,9.7l1.9,3.4c2.1,3.7,7.6,5.4,12.4,3.8l9.4-3.2
+				c2,2.8,4.1,5.6,6.4,8.2l-8,5c-4,2.5-4.7,7.1-1.5,10.3l2.9,2.9c3.2,3.2,9.1,3.7,13.2,1.1l8-5c2.8,2.3,5.8,4.6,8.9,6.7l-6.1,6.4
+				c-3.1,3.3-2.2,7.9,2,10.2l3.8,2.2c4.2,2.4,10.1,1.7,13.1-1.6l6.1-6.4c3.5,1.7,7.1,3.2,10.8,4.7l-3.7,7.4c-1.9,3.8,0.5,8,5.3,9.5
+				l4.4,1.3c4.8,1.5,10.3-0.4,12.2-4.2l3.7-7.4c3.9,0.9,7.9,1.7,12,2.3l-1.1,7.9c-0.6,4,3.1,7.6,8.3,8.1l4.7,0.4
+				c5.2,0.4,9.8-2.4,10.4-6.5l1.1-7.9c4.1,0.1,8.3,0,12.3-0.2l1.5,7.9c0.8,4,5.6,6.8,10.7,6.1l4.6-0.6c5.1-0.6,8.6-4.4,7.9-8.4
+				l-1.5-7.9c4-0.8,8-1.7,11.9-2.7l4.1,7.3c2.1,3.7,7.6,5.4,12.4,3.8l4.3-1.5c4.7-1.6,6.9-5.9,4.8-9.7l-4.1-7.3
+				c3.6-1.5,7.1-3.2,10.6-5l6.4,6.2c3.2,3.2,9.1,3.7,13.2,1.1l3.7-2.3c4-2.5,4.7-7.1,1.5-10.3l-6.4-6.2c3-2.2,5.8-4.5,8.6-6.9
+				l8.2,4.7c4.2,2.4,10.1,1.7,13.1-1.6l2.8-3c3.1-3.3,2.2-7.8-2-10.2l-8.2-4.7c2.1-2.7,4.1-5.5,6-8.4l9.5,2.9
+				c4.8,1.5,10.3-0.4,12.2-4.2l1.7-3.4c1.9-3.8-0.5-8-5.3-9.5l-9.5-2.9c1.2-3.1,2.1-6.2,2.9-9.4l10.2,0.9c5.2,0.4,9.8-2.5,10.4-6.5
+				l0.5-3.6C862.8,148.3,859.1,144.7,853.9,144.2z"/>
+			
+				<radialGradient id="SVGID_26_" cx="1069.311" cy="428.6752" r="105.4533" fx="1072.17" fy="456.5727" gradientTransform="matrix(1.5258 0 0 1.191 -925.8298 -344.578)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E1E8EC"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_26_)" cx="706.9" cy="140.4" rx="121.7" ry="95"/>
+			<g>
+				<path fill="#9CCD5D" d="M821.9,140.7c0,49.6-51.5,89.8-115,89.8c-63.5,0-115-40.2-115-89.8c0-49.6,51.5-89.8,115-89.8
+					C770.4,50.9,821.9,91.1,821.9,140.7z"/>
+				
+					<radialGradient id="SVGID_27_" cx="1069.489" cy="415.7248" r="100.0858" gradientTransform="matrix(1.5258 0 0 1.191 -925.8298 -344.578)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.6365" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</radialGradient>
+				<path fill="url(#SVGID_27_)" d="M821.9,140.7c0,49.6-51.5,89.8-115,89.8c-63.5,0-115-40.2-115-89.8c0-49.6,51.5-89.8,115-89.8
+					C770.4,50.9,821.9,91.1,821.9,140.7z"/>
+			</g>
+		</g>
+		<text transform="matrix(1.2811 0 0 1 665.9297 104.7773)" fill="#FFFFFF" font-family="'RobotoSlab-Bold'" font-size="13.2041">Endurance</text>
+		<rect x="665.9" y="111.6" fill="none" width="120.4" height="101.5"/>
+		<text transform="matrix(1.2811 0 0 1 665.9326 116.3105)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">Once Proficient Patterns are </tspan><tspan x="0" y="7.9" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">Established we must increase the </tspan><tspan x="0" y="15.8" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">tissue’s resistance to fatigue.  </tspan><tspan x="0" y="23.8" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">Competition Requires high </tspan><tspan x="0" y="31.7" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">intense efforts and can result in </tspan><tspan x="0" y="39.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">fatigue.  The majority of prevent</tspan><tspan x="88.1" y="39.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">-</tspan><tspan x="0" y="47.5" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">able athletic injuries occur during </tspan><tspan x="0" y="55.5" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">points of fatigue, so it is very </tspan><tspan x="0" y="63.4" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">important that our athletes can </tspan><tspan x="0" y="71.3" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">maintain outputs throughout the </tspan><tspan x="0" y="79.2" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">duration of a game and reduce </tspan><tspan x="0" y="87.1" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="6.602">risk of injury.</tspan></text>
+		
+			<text transform="matrix(1.2811 0 0 1 604.1582 147.4795)" fill="#FFFFFF" font-family="'Bebas'" font-size="33.2816" letter-spacing="-0.8">2</text>
+		<g>
+			<rect x="658.1" y="99.7" fill="#FFFFFF" width="0.8" height="77.7"/>
+		</g>
+	</g>
+	
+		<radialGradient id="SVGID_28_" cx="678.71" cy="448.8598" r="102.0135" gradientTransform="matrix(0.9167 0 0 0.7533 -341.3255 -205.1564)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+		<stop  offset="0.1805" style="stop-color:#484848"/>
+		<stop  offset="0.3403" style="stop-color:#808080"/>
+		<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+		<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+		<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+		<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse fill="url(#SVGID_28_)" cx="280.8" cy="133" rx="93.5" ry="76.8"/>
+	<g>
+		<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="288.663" y1="259.4795" x2="288.663" y2="133.1151">
+			<stop  offset="0" style="stop-color:#E1E8EC"/>
+			<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path fill="url(#SVGID_29_)" d="M410.9,181l-8.4-1.7c0.6-2.6,1.1-5.3,1.4-7.9l8.6,0c4.4,0,7.9-2.7,7.9-6.1l0-3
+			c0-3.4-3.5-6.1-7.9-6.1l-8.6,0c-0.3-2.7-0.8-5.3-1.4-7.9l8.3-1.7c4.2-0.9,6.7-4.2,5.6-7.4l-1-2.9c-1.1-3.2-5.5-5.2-9.7-4.3
+			l-8.4,1.7c-1.2-2.5-2.5-5-4-7.4l7.5-3.3c3.8-1.7,5.1-5.4,2.9-8.3l-2-2.6c-2.2-2.9-7-3.9-10.8-2.2l-7.5,3.3c-2-2.2-4.1-4.3-6.3-6.3
+			l6.1-4.7c3.1-2.4,3.1-6.2,0-8.6l-2.8-2.1c-3.1-2.4-8.1-2.4-11.2,0l-6.1,4.7c-2.6-1.7-5.4-3.3-8.3-4.9l4.3-5.7
+			c2.2-2.9,0.9-6.6-2.9-8.3l-3.4-1.5c-3.8-1.7-8.6-0.7-10.8,2.2l-4.3,5.7c-3.1-1.1-6.3-2.1-9.6-3l2.2-6.4c1.1-3.2-1.4-6.6-5.6-7.4
+			L321,66c-4.2-0.9-8.6,1-9.7,4.3l-2.2,6.4c-3.4-0.5-6.9-0.8-10.3-1.1l0-6.6c0-3.3-3.5-6.1-7.9-6.1l-4,0c-4.4,0-7.9,2.7-7.9,6.1
+			l0,6.6c-3.5,0.2-6.9,0.6-10.3,1l-2.2-6.4c-1.1-3.2-5.5-5.2-9.7-4.3l-3.8,0.8c-4.2,0.9-6.7,4.2-5.6,7.4l2.2,6.4
+			c-3.3,0.9-6.5,1.9-9.6,3l-4.3-5.7c-2.2-2.9-7-3.9-10.8-2.2l-3.4,1.5c-3.8,1.7-5.1,5.4-2.9,8.3l4.3,5.7c-2.8,1.5-5.6,3.1-8.3,4.8
+			l-6.1-4.7c-3.1-2.4-8.1-2.4-11.2,0l-2.8,2.1c-3.1,2.4-3.1,6.2,0,8.6l6.1,4.7c-2.2,2-4.4,4.1-6.4,6.3l-7.5-3.3
+			c-3.8-1.7-8.6-0.7-10.8,2.2l-2,2.6c-2.2,2.9-0.9,6.6,2.9,8.3l7.5,3.3c-1.5,2.4-2.8,4.8-4,7.4l-8.4-1.7c-4.2-0.9-8.6,1-9.7,4.3
+			l-1,2.9c-1.1,3.2,1.4,6.6,5.6,7.4l8.4,1.7c-0.6,2.6-1.1,5.3-1.4,7.9l-8.6,0c-4.4,0-7.9,2.7-7.9,6.1l0,3c0,3.4,3.5,6.1,7.9,6.1
+			l8.6,0c0.3,2.7,0.8,5.3,1.4,7.9l-8.3,1.7c-4.2,0.9-6.7,4.2-5.6,7.4l1,2.9c1.1,3.2,5.5,5.2,9.7,4.3l8.4-1.7c1.2,2.5,2.5,5,4,7.4
+			l-7.5,3.3c-3.8,1.7-5.1,5.4-2.9,8.3l2,2.6c2.2,2.9,7,3.9,10.8,2.2l7.5-3.3c2,2.2,4.1,4.3,6.3,6.3l-6.1,4.7c-3.1,2.4-3.1,6.2,0,8.6
+			l2.8,2.1c3.1,2.4,8.1,2.4,11.2,0l6.1-4.7c2.6,1.7,5.4,3.3,8.3,4.9L218,242c-2.2,2.9-0.9,6.6,2.9,8.3l3.4,1.5
+			c3.8,1.7,8.6,0.7,10.8-2.2l4.3-5.7c3.1,1.1,6.3,2.1,9.6,3l-2.2,6.4c-1.1,3.2,1.4,6.6,5.6,7.4l3.8,0.8c4.2,0.9,8.6-1,9.7-4.3
+			l2.2-6.4c3.5,0.5,6.9,0.8,10.3,1.1l0,6.6c0,3.4,3.5,6.1,7.9,6.1l4,0c4.4,0,7.9-2.7,7.9-6.1l0-6.6c3.5-0.2,6.9-0.6,10.3-1l2.2,6.4
+			c1.1,3.2,5.5,5.2,9.7,4.3l3.8-0.8c4.2-0.9,6.7-4.2,5.6-7.4L328,247c3.3-0.9,6.5-1.9,9.6-3l4.3,5.7c2.2,2.9,7,3.9,10.8,2.2l3.4-1.5
+			c3.8-1.7,5.1-5.4,2.9-8.3l-4.3-5.7c2.9-1.5,5.6-3.1,8.3-4.8l6.1,4.7c3.1,2.4,8.1,2.4,11.2,0l2.8-2.1c3.1-2.4,3.1-6.2,0-8.6
+			l-6.1-4.7c2.2-2,4.4-4.1,6.4-6.3l7.5,3.3c3.8,1.7,8.6,0.7,10.8-2.2l2-2.6c2.2-2.9,0.9-6.6-2.9-8.3l-7.5-3.3c1.5-2.4,2.8-4.9,4-7.4
+			l8.4,1.7c4.2,0.9,8.6-1,9.7-4.3l1-2.9C417.6,185.2,415.1,181.9,410.9,181z"/>
+		
+			<radialGradient id="SVGID_30_" cx="685.6949" cy="502.9679" r="94.0223" fx="688.244" fy="527.8413" gradientTransform="matrix(1.4456 0 0 1.106 -703.5552 -371.6302)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#E1E8EC"/>
+		</radialGradient>
+		<ellipse fill="url(#SVGID_30_)" cx="288.7" cy="163.5" rx="102.8" ry="78.7"/>
+		<g>
+			<ellipse fill="#65C8D0" cx="288.7" cy="163.7" rx="97.2" ry="74.4"/>
+			
+				<radialGradient id="SVGID_31_" cx="685.8535" cy="491.4214" r="89.2367" gradientTransform="matrix(1.4456 0 0 1.106 -703.5552 -371.6302)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0.6365" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_31_)" cx="288.7" cy="163.7" rx="97.2" ry="74.4"/>
+		</g>
+	</g>
+	<text transform="matrix(0.8801 0 0 1 264.1032 117.5228)" fill="#FFFFFF" font-family="'RobotoSlab-Bold'" font-size="18">Capacity</text>
+	<rect x="240" y="135.9" fill="none" width="134.4" height="137.2"/>
+	<text transform="matrix(1.2169 0 0 1 239.962 141.5568)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">Build Neuromuscular patterns </tspan><tspan x="0" y="9.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">that support Optimal movement </tspan><tspan x="0" y="19.2" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">through appropriate sequence </tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">of muscle innervation.  This will </tspan><tspan x="0" y="38.4" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">help improve the quality of </tspan><tspan x="0" y="48" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">muscle tissue and help increase </tspan><tspan x="0" y="57.6" fill="#FFFFFF" font-family="'RobotoSlab-Thin'" font-size="8">its loading capacity.</tspan></text>
+	<text transform="matrix(1.2169 0 0 1 205.6289 170.8135)" fill="#FFFFFF" font-family="'Bebas'" font-size="21.0496">1</text>
+	<g>
+		<rect x="231" y="135.9" fill="#FFFFFF" width="0" height="63.9"/>
+	</g>
+	<rect x="420.5" y="279.4" fill="none" width="82.3" height="41.2"/>
+	<text transform="matrix(1.2169 0 0 1 422.5775 287.9019)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">Performance</tspan><tspan x="13.6" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">Testing</tspan></text>
+	<g>
+		<g>
+			
+				<radialGradient id="SVGID_32_" cx="464.7863" cy="487.9033" r="49.6367" gradientTransform="matrix(1.3843 0 0 1.1954 -560.8891 -442.831)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="1.837116e-02" style="stop-color:#080808"/>
+				<stop  offset="0.1805" style="stop-color:#484848"/>
+				<stop  offset="0.3403" style="stop-color:#808080"/>
+				<stop  offset="0.4939" style="stop-color:#AEAEAE"/>
+				<stop  offset="0.64" style="stop-color:#D1D1D1"/>
+				<stop  offset="0.7768" style="stop-color:#EAEAEA"/>
+				<stop  offset="0.9006" style="stop-color:#FAFAFA"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</radialGradient>
+			<ellipse fill="url(#SVGID_32_)" cx="82.5" cy="140.4" rx="68.7" ry="59.3"/>
+			<g>
+				<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="82.5165" y1="188.8044" x2="82.5165" y2="124.9395">
+					<stop  offset="0" style="stop-color:#E1E8EC"/>
+					<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+				</linearGradient>
+				<path fill="url(#SVGID_33_)" d="M137.2,149.2l-3.7-0.9c0.3-1.3,0.5-2.7,0.6-4l3.9,0c2,0,3.6-1.4,3.6-3.1l0-1.5
+					c0-1.7-1.6-3.1-3.5-3.1l-3.9,0c-0.1-1.3-0.3-2.7-0.6-4l3.7-0.9c1.9-0.4,3-2.1,2.5-3.8l-0.5-1.5c-0.5-1.6-2.4-2.6-4.3-2.2
+					l-3.7,0.9c-0.5-1.3-1.1-2.5-1.8-3.7l3.4-1.7c1.7-0.8,2.3-2.7,1.3-4.2l-0.9-1.3c-1-1.5-3.2-2-4.8-1.1l-3.4,1.7
+					c-0.9-1.1-1.8-2.2-2.8-3.2l2.7-2.4c1.4-1.2,1.4-3.1,0-4.3l-1.3-1.1c-1.4-1.2-3.6-1.2-5,0l-2.7,2.4c-1.2-0.9-2.4-1.7-3.7-2.5
+					l1.9-2.9c1-1.5,0.4-3.3-1.3-4.2l-1.5-0.8c-1.7-0.8-3.9-0.3-4.9,1.1l-1.9,2.9c-1.4-0.6-2.8-1.1-4.3-1.5l1-3.2
+					c0.5-1.6-0.6-3.3-2.5-3.8L97,91c-1.9-0.4-3.8,0.5-4.4,2.2l-1,3.2c-1.5-0.2-3.1-0.4-4.6-0.5l0-3.3c0-1.7-1.6-3.1-3.5-3.1l-1.8,0
+					c-2,0-3.6,1.4-3.6,3.1l0,3.3c-1.6,0.1-3.1,0.3-4.6,0.5l-1-3.2C72,91.5,70,90.5,68.2,91l-1.7,0.4c-1.9,0.4-3,2.1-2.5,3.8l1,3.2
+					c-1.5,0.5-2.9,1-4.3,1.5L58.7,97c-1-1.5-3.2-2-4.9-1.1l-1.5,0.8c-1.7,0.8-2.3,2.7-1.3,4.2l1.9,2.9c-1.3,0.8-2.5,1.6-3.7,2.4
+					l-2.7-2.4c-1.4-1.2-3.6-1.2-5,0l-1.3,1.1c-1.4,1.2-1.4,3.1,0,4.3l2.7,2.4c-1,1-2,2.1-2.8,3.2l-3.3-1.7c-1.7-0.8-3.9-0.3-4.9,1.1
+					l-0.9,1.3c-1,1.5-0.4,3.3,1.3,4.2l3.3,1.7c-0.7,1.2-1.2,2.5-1.8,3.7l-3.7-0.9c-1.9-0.4-3.8,0.5-4.4,2.2l-0.5,1.5
+					c-0.5,1.6,0.6,3.3,2.5,3.8l3.7,0.9c-0.3,1.3-0.5,2.7-0.6,4l-3.9,0c-2,0-3.6,1.4-3.6,3.1v1.5c0,1.7,1.6,3.1,3.5,3.1l3.9,0
+					c0.1,1.3,0.3,2.7,0.6,4l-3.7,0.9c-1.9,0.4-3,2.1-2.5,3.8l0.5,1.5c0.5,1.6,2.4,2.6,4.3,2.2l3.7-0.9c0.5,1.3,1.1,2.5,1.8,3.7
+					l-3.4,1.7c-1.7,0.8-2.3,2.7-1.3,4.2l0.9,1.3c1,1.5,3.1,2,4.8,1.1L40,166c0.9,1.1,1.8,2.2,2.8,3.2l-2.7,2.4
+					c-1.4,1.2-1.4,3.1,0,4.3l1.3,1.1c1.4,1.2,3.6,1.2,5,0l2.7-2.4c1.2,0.9,2.4,1.7,3.7,2.5l-1.9,2.9c-1,1.5-0.4,3.3,1.3,4.2l1.5,0.8
+					c1.7,0.9,3.9,0.3,4.9-1.1l1.9-2.9c1.4,0.6,2.8,1.1,4.3,1.5l-1,3.2c-0.5,1.6,0.6,3.3,2.5,3.8l1.7,0.4c1.9,0.4,3.8-0.5,4.4-2.2
+					l1-3.2c1.5,0.2,3.1,0.4,4.6,0.5l0,3.3c0,1.7,1.6,3.1,3.5,3.1l1.8,0c2,0,3.6-1.4,3.6-3.1l0-3.3c1.6-0.1,3.1-0.3,4.6-0.5l1,3.2
+					c0.5,1.6,2.5,2.6,4.3,2.2l1.7-0.4c1.9-0.4,3-2.1,2.5-3.8l-1-3.2c1.5-0.5,2.9-1,4.3-1.5l1.9,2.9c1,1.5,3.1,2,4.8,1.1l1.5-0.8
+					c1.7-0.8,2.3-2.7,1.3-4.2l-1.9-2.9c1.3-0.8,2.5-1.6,3.7-2.4l2.7,2.4c1.4,1.2,3.6,1.2,5,0l1.3-1.1c1.4-1.2,1.4-3.1,0-4.3
+					l-2.7-2.4c1-1,2-2.1,2.8-3.2l3.3,1.7c1.7,0.8,3.9,0.3,4.9-1.1l0.9-1.3c1-1.5,0.4-3.3-1.3-4.2l-3.3-1.7c0.7-1.2,1.2-2.5,1.8-3.7
+					l3.7,0.9c1.9,0.4,3.8-0.5,4.4-2.2l0.5-1.5C140.3,151.3,139.1,149.6,137.2,149.2z"/>
+				
+					<radialGradient id="SVGID_34_" cx="464.4927" cy="496.2369" r="41.4386" fx="465.6162" fy="507.1994" gradientTransform="matrix(1.3843 0 0 1.1954 -560.8891 -442.831)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#E1E8EC"/>
+				</radialGradient>
+				<ellipse fill="url(#SVGID_34_)" cx="82.5" cy="140.3" rx="43.4" ry="37.5"/>
+				<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="82.5165" y1="198.6119" x2="82.5165" y2="107.8308">
+					<stop  offset="0" style="stop-color:#E1E8EC"/>
+					<stop  offset="0.5131" style="stop-color:#FFFFFF"/>
+				</linearGradient>
+				<ellipse fill="url(#SVGID_35_)" cx="82.5" cy="140.3" rx="42.1" ry="36.3"/>
+				
+					<radialGradient id="SVGID_36_" cx="464.5089" cy="495.7864" r="47.1781" fx="465.7879" fy="508.2673" gradientTransform="matrix(1.3843 0 0 1.1954 -560.8891 -442.831)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.4869" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#E1E8EC"/>
+				</radialGradient>
+				<ellipse fill="url(#SVGID_36_)" cx="82.5" cy="140.3" rx="41.1" ry="35.5"/>
+			</g>
+		</g>
+		<polygon fill="none" points="119.3,164.2 52,164.2 44.5,115.4 120.3,123.6 		"/>
+		<text transform="matrix(1.158 0 0 1 50.0835 133.6777)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="9.5634">BioMechanical</tspan><tspan x="15" y="11.5" font-family="'MyriadPro-Regular'" font-size="9.5634">Testing</tspan></text>
+	</g>
+	<polygon fill="none" points="486.7,123.5 445.7,123.5 446.6,76 504.3,76 	"/>
+	<text transform="matrix(1.2169 0 0 1 448.0347 84.5449)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="7">BioMechanical</tspan><tspan x="42.5" y="0" font-family="'MyriadPro-Regular'" font-size="12"> </tspan><tspan x="9.1" y="8.4" font-family="'MyriadPro-Regular'" font-size="7">Testing</tspan></text>
+</g>
+</svg>

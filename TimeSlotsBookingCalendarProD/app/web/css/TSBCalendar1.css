@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+.tsContainer .tsTimeslotStart,
+.tsContainer .tsTimeslotEnd,
+.tsContainer .tsTimeslotPrice,
+.tsContainer .tsTimeslotRemove{
+	float: left;
+}
+.tsContainer .tsTimeslotStart{width: 25%}
+.tsContainer .tsTimeslotEnd{width: 25%}
+.tsContainer .tsTimeslotPrice{width: 40%; text-align: right; font-family: PTSansBold; color: #000}
+.tsContainer .tsTimeslotRemove{width: 10%; text-align: center}
+.tsContainer .tsIconAdd,
+.tsContainer .tsIconRemove,
+.tsContainer .tsIconDisabled{
+	width: 22px;
+	height: 22px;
+	display: inline-block;
+	text-decoration: none;
+	vertical-align: top; /*text-top;*/
+}
+.tsContainer .tsTimeslotClear{
+	clear: left;
+}

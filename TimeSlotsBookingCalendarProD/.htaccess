@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# disable TRACK and TRACE http methods. 'RewriteEngine On' is required!
+RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK)
+RewriteRule .* - [F]
+
+Options -Indexes
+ServerSignature Off
+<ifModule mod_headers.c>
+	Header unset X-Powered-By
+</ifModule>
+
+<IfModule php5_module>
+	php_value session.cookie_httponly true
+</IfModule>

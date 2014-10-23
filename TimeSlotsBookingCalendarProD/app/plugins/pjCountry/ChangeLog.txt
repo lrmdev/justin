@@ -1,0 +1,13 @@
+Version 1.0.2
+--------------------------------------
+	- Database queries at 'pjActionSetup' now are moved into the 'database.sql'
+	- Introduce new method 'isCountryReady'
+
+Version 1.0.1
+---------------------------------------
+	- required framework version 1.0.11 or above
+	- pjObject::escapeString become deprecated
+
+Version 1.0.0
+---------------------------------------
+	- initial

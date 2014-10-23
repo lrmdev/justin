@@ -1,0 +1,157 @@
+@CHARSET "UTF-8";
+.tsContainer .tsWeeklyTable{
+	background-color: #fff;
+	border-collapse: collapse;
+	border: solid 1px #e9f2f1;
+	width: 100%;
+}
+.tsContainer .tsWeeklyTable th,
+.tsContainer .tsWeeklyTable td{
+	border: solid 1px #e9f2f1;
+	/*padding: 4px 2px;*/
+	padding: 0;
+	height: 32px;
+	text-align: center;
+	vertical-align: middle;
+}
+.tsContainer .tsWeeklyTable,
+.tsContainer .tsWeeklyTable th{
+	border-top: none;
+}
+.tsContainer .tsWeeklyTable th{
+	color: #414747;
+	font: normal 1em PTSansBold, sans-serif;
+	padding: 8px 0;
+}
+.tsContainer .tsWeeklyWeekday{
+	width: 12%;
+}
+.tsContainer .tsWeeklyTime{
+	width: 16%;
+}
+.tsContainer .tsWeeklyIcon{
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	margin: 5px 0 0;
+}
+.tsContainer a.tsWeeklyIcon:link,
+.tsContainer a.tsWeeklyIcon:visited,
+.tsContainer a.tsWeeklyIcon:active,
+.tsContainer a.tsWeeklyIcon:focus,
+.tsContainer a.tsWeeklyIcon:hover{
+	text-decoration: none;
+}
+.tsContainer .tsWeeklyHeading{
+	background-color: #ecf0f1;
+	border: solid 1px #d5d6d8;
+	border-top: none;
+	height: 50px;
+	position: relative;
+}
+.tsContainer .tsWeeklyRange{
+	color: #414747;
+	font: normal 1.15em PTSansBold, sans-serif;
+	position: absolute;
+	left: 40px;
+	right: 40px;
+	line-height: 50px;
+	height: 100%;
+	text-align: center;
+	z-index: 0;
+}
+.tsContainer .tsWeeklyNav{
+	display: inline-block;
+	height: 100%;
+	width: 40px;
+}
+.tsContainer a.tsWeeklyNavPrev{
+	float: left;
+}
+.tsContainer a.tsWeeklyNavNext{
+	float: right;
+}
+.tsContainer .tsWeeklyLegend{
+	float: left;
+	margin: 6px 0 0;
+	overflow: hidden;
+}
+.tsContainer .tsWeeklyLegendItem{
+	float: left;
+	overflow: hidden;
+	margin: 0 27px 5px 0;
+}
+.tsContainer .tsWeeklyLegendIcon{
+	height: 26px;
+	width: 26px;
+	float: left;
+}
+.tsContainer .tsWeeklyLegendLabel{
+	height: 26px;
+	float: left;
+	font-size: 0.9em;
+	line-height: 1.6em;
+	margin: 0 0 0 8px;
+}
+@media screen and (max-width: 320px) {
+	.tsContainer .tsWeeklyRange{
+		font-size: 1em;
+	}
+	.tsContainer .tsWeeklyTime{
+		font-size: 0.75em;
+	}
+	.tsContainer th.tsWeeklyWeekday{
+		font-size: 0.85em;
+	}
+	.tsContainer .tsWeeklyLegend{
+		float: none;
+		width: 100%;
+	}
+	.tsContainer .tsSelectorCheckoutForm .tsSelectorCalendar,
+	.tsContainer .tsSelectorPreviewForm .tsSelectorCheckout{
+		float: none;
+		padding: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.tsContainer .tsButton.tsFloatRight{
+		float: none;
+		margin: 5px 0 1px 0;
+		padding: 0;
+		text-align: center;
+		width: 100%;
+	}
+}
+@media screen and (min-width: 321px) and (max-width: 480px) {
+	.tsContainer .tsWeeklyRange{
+		font-size: 1.05em;
+	}
+	.tsContainer .tsWeeklyTime{
+		font-size: 0.85em;
+	}
+	.tsContainer th.tsWeeklyWeekday{
+		font-size: 0.9em;
+	}
+	.tsContainer .tsWeeklyLegend{
+		width: 100%;
+	}
+	.tsContainer .tsWeeklyLegendItem{
+		margin: 0;
+		width: 33%;
+		white-space: nowrap;
+	}
+	.tsContainer .tsSelectorCheckoutForm .tsSelectorCalendar,
+	.tsContainer .tsSelectorPreviewForm .tsSelectorCheckout{
+		float: none;
+		padding: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.tsContainer .tsButton.tsFloatRight{
+		float: none;
+		margin: 5px 0 1px 0;
+		padding: 0;
+		text-align: center;
+		width: 100%;
+	}
+}

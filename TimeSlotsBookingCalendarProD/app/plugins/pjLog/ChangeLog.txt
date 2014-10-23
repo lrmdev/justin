@@ -1,0 +1,32 @@
+Version 1.0.4
+---------------------------------------
+	- Database queries at pjActionSetup now are moved into the 'database.sql'
+	
+Version 1.0.3
+---------------------------------------
+	- required framework version 1.0.11 or above
+	- pjObject::escapeString has been removed
+
+Version 1.0.2
+---------------------------------------
+	- changed
+		+ pjActionSetup to satisfy changes in pjField and pjMultiLang
+
+Version 1.0.1
+---------------------------------------
+	- changed
+		+ method pjActionConfig
+		+ few labels added & removed (pjActionSetup)
+		
+	- removed
+		+ method pjActionSaveLogConfig
+		+ method pjActionGetLogConfig
+		+ method pjActionDeleteLogConfig
+		+ method pjActionDeleteLogConfigBulk
+		+ the grid for Config tab (pjLog.js)
+		
+	* Basically changed the way Config tab works
+
+Version 1.0.0
+---------------------------------------
+	- initial

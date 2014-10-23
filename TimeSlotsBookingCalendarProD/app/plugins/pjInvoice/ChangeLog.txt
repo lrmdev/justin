@@ -1,0 +1,32 @@
+Version 1.0.6
+---------------------------------------
+	- Database queries at pjActionSetup now are moved into the 'database.sql'
+	- Folders permission checks now are moved from 'pjActionBeforeInstall' to 'pjActionCheckInstall' (require framework 1.0.13) 
+	
+Version 1.0.5
+---------------------------------------
+	- required framework version 1.0.11 or above
+	- pjObject::escapeString has been removed
+
+Version 1.0.4
+---------------------------------------
+	
+
+Version 1.0.3
+---------------------------------------
+	- send 'total' to the payment gateways, instead of 'paid_total'
+	- show payment methods & button (pjActionView.php) only if 'total' > 0
+
+Version 1.0.2
+---------------------------------------
+	- md5_setting(hash value) added to Authorize & Invoice Config
+	- fixed paypal & authorize callbacks
+
+Version 1.0.1
+---------------------------------------
+	- database: addded field 'o_qty_is_int'
+	- adding/removing invoice items update 'total' value
+
+Version 1.0.0
+---------------------------------------
+	- initial

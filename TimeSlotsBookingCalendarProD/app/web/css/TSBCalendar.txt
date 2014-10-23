@@ -1,0 +1,40 @@
+.tsContainer .tsButtonGreen,
+.tsContainer a.tsButtonGreen{
+	background: #99db80 url([URL]app/web/img/frontend/as-btn-green.png) 0 0 repeat-x;
+}
+.tsContainer .tsButtonGreen:hover,
+.tsContainer a.tsButtonGreen:hover{
+	background: #99db80 url([URL]app/web/img/frontend/as-btn-green.png) 0 -40px repeat-x;
+}
+.tsContainer .tsButtonGreen:active,
+.tsContainer a.tsButtonGreen:active{
+	background: #99db80 url([URL]app/web/img/frontend/as-btn-green.png) 0 -120px repeat-x;
+}
+.tsContainer .tsButtonGreen:disabled,
+.tsContainer a.tsButtonGreen:disabled{
+	background: #d7edcf url([URL]app/web/img/frontend/as-btn-green.png) 0 -80px repeat-x;
+}
+.tsContainer .tsButtonGray,
+.tsContainer a.tsButtonGray{
+	background: #a5b2b5 url([URL]app/web/img/frontend/as-btn-gray.png) 0 0 repeat-x;
+}
+.tsContainer .tsButtonGray:hover,
+.tsContainer a.tsButtonGray:hover{
+	background: #8e999b url([URL]app/web/img/frontend/as-btn-gray.png) 0 -40px repeat-x;
+}
+.tsContainer .tsButtonGray:active,
+.tsContainer a.tsButtonGray:active{
+	background: #a5b2b5 url([URL]app/web/img/frontend/as-btn-gray.png) 0 -120px repeat-x;
+}
+.tsContainer .tsButtonGray:disabled,
+.tsContainer a.tsButtonGray:disabled{
+	background: #d3dadc url([URL]app/web/img/frontend/as-btn-gray.png) 0 -80px repeat-x;
+}
+@font-face {
+	font-family: PTSansBold;
+	src: url([URL]app/web/obj/PT_Sans_Bold.ttf) format("truetype");
+}
+@font-face {
+	font-family: PTSansRegular;
+	src: url([URL]app/web/obj/PT_Sans_Regular.ttf) format("truetype");
+}

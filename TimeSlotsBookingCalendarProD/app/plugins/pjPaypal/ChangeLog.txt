@@ -1,0 +1,18 @@
+Version 1.0.2
+---------------------------------------
+	- added $this->log($errstr) after fsockopen
+	
+Version 1.0.1
+---------------------------------------
+	- added 3 new properties at pjActionForm
+		+ submit (Type: String; Text value of submit button. Omit this property to hide the button)
+		+ submit_class (Type: String; Class name of submit button)
+		+ target (Type: String; Values: _blank, _top, _self, _parent)
+		
+	- changed
+		+ method pjActionConfirm (better logging)
+	
+
+Version 1.0.0
+---------------------------------------
+	- initial

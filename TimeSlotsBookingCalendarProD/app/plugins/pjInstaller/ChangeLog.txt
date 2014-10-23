@@ -1,0 +1,54 @@
+Version 1.0.9
+---------------------------------------
+	- Bug: 1682 (Support of plugin's update SQL files)
+	- Suppress set_time_limit PHP Notice when safe_mode=ON
+	
+Version 1.0.8
+---------------------------------------
+	- Changed to PHP 5.1.0 as install requirement
+
+Version 1.0.7
+---------------------------------------
+
+
+Version 1.0.6
+---------------------------------------
+	- required framework version 1.0.11 or above
+	- pjObject::escapeString has been removed
+	- mysql_* functions replaced with DBO driver
+	- Escape $ in MySQL password before save to config.inc.php
+	- check for PHP Session support
+	- implement 'pjActionCheckInstall' used for file/folder permission checks (require framework 1.0.13)
+	- typo fix at 'pjActionStep3.php'
+	
+	
+Version 1.0.5
+---------------------------------------
+
+Version 1.0.4
+---------------------------------------
+	- added support of 'pjActionAfterInstall'
+
+Version 1.0.3
+---------------------------------------
+	- added 'build' parameter to trackInstall.php
+	- use transactions while import *.sql files
+	- added time limit (5 min) at pjActionSetDb
+	- improved error handling
+	
+
+Version 1.0.2
+---------------------------------------
+	- changed
+		+ text at the 3rd step
+
+
+Version 1.0.1
+---------------------------------------
+	- changed
+		+ encoded *.stivasoft.com URLs
+
+
+Version 1.0.0
+---------------------------------------
+	- initial

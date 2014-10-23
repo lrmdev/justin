@@ -1,0 +1,49 @@
+Version 1.0.8
+	- Fixed catalan language icon 
+	- Fixed SQL error in search form
+	- Import/Export become CSV
+	- "Ndonga" dialect was replaced with "English - Nigeria" (same ISO code "ng")
+---------------------------------------
+
+Version 1.0.7
+	- Fixed pagination
+---------------------------------------
+
+Version 1.0.6
+---------------------------------------
+	- Database queries at pjActionSetup now are moved into the 'database.sql'
+	
+Version 1.0.5
+---------------------------------------
+	- required framework version 1.0.11 or above
+	- pjObject::escapeString has been removed
+	- mysql_* functions replaced with DBO driver
+
+Version 1.0.4
+---------------------------------------
+	- changed Swedish flag from sv.png to se.png
+	
+Version 1.0.3
+---------------------------------------
+	- add sort by Field(type), Row count
+	- import/export
+
+Version 1.0.2
+---------------------------------------
+	- few minor updates to satisfy changes in pjField & pjMultiLang
+
+Version 1.0.1
+---------------------------------------
+	- changed
+		+ database.sql (`plugin_locale` table key become UNIQUE)
+		+ method pjActionSaveLocale (caching)
+		+ single label in pjLocale.model.php, method: pjActionSetup
+		+ pjLocale.js (UX improvements)
+		
+	- added
+		+ method pjActionClean
+		+ view pjActionClean
+
+Version 1.0.0
+---------------------------------------
+	- initial

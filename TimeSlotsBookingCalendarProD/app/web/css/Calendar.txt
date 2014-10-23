@@ -1,0 +1,244 @@
+@CHARSET "UTF-8";
+[calendarContainer] {
+	float: none;
+	height: 100%;
+}
+[calendarContainer] table.tsCalendarTable{
+	background-color: #ECF0F1;
+	border: 1px solid #ECF0F1;
+	border-collapse: collapse;
+	table-layout: fixed;
+	font-family: PTSansRegular, sans-serif;
+	height: 100%;
+	width: 100%;
+}
+[calendarContainer] a{
+	outline: none;
+}
+[calendarContainer] td.tsCalendarMonth{
+	background-color: #ECF0F1;
+	border-right: solid 1px #ECF0F1;
+	border-bottom: solid 1px #ECF0F1;
+	color: #414748;
+	font-family: PTSansBold, sans-serif;
+	font-size: 1.1em;
+	height: [cell_height]%;
+	text-shadow: 1px 1px 1px #fff;
+	white-space: nowrap;
+}
+[calendarContainer] .tsCalendarMonthOuter{
+	display: table;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	position: relative;
+}
+[calendarContainer] .tsCalendarMonthInner{
+	/* Uncomment if container has explicit set up height */
+	/*display: table-cell;*/
+	vertical-align: middle;
+	text-align: center;
+}
+[calendarContainer] td.tsCalendarMonth,
+[calendarContainer] td.tsCalendarMonth a:link,
+[calendarContainer] td.tsCalendarMonth a:visited,
+[calendarContainer] td.tsCalendarMonth a:hover{
+	text-align: center;
+	vertical-align: middle;
+}
+[calendarContainer] td.tsCalendarMonth a:link,
+[calendarContainer] td.tsCalendarMonth a:visited{
+	text-decoration: none;
+}
+[calendarContainer] td.tsCalendarMonthPrev,
+[calendarContainer] td.tsCalendarMonthNext{
+	background-color: #ECF0F1;
+	width: [cell_width]%;
+}
+[calendarContainer] td.tsCalendarMonthPrev a:link,
+[calendarContainer] td.tsCalendarMonthPrev a:visited,
+[calendarContainer] td.tsCalendarMonthPrev a:active,
+[calendarContainer] td.tsCalendarMonthNext a{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+}
+[calendarContainer] a.tsCalendarLinkMonth:link,
+[calendarContainer] a.tsCalendarLinkMonth:visited,
+[calendarContainer] a.tsCalendarLinkMonth:active,
+[calendarContainer] a.tsCalendarLinkMonth:hover,
+[calendarContainer] a.tsCalendarLinkMonth:focus{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	/*position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;*/
+}
+[calendarContainer] td.tsCalendarMonthPrev a{
+	background: transparent url([URL]app/web/img/frontend/as-arrow-left.png) center center no-repeat;
+}
+[calendarContainer] td.tsCalendarMonthNext a{
+	background: transparent url([URL]app/web/img/frontend/as-arrow-right.png) center center no-repeat;
+}
+[calendarContainer] td.tsCalendarMonth a:hover{
+	text-decoration: none;
+}
+[calendarContainer] td.tsCalendarWeekDay{
+	/*padding: 2px 0;
+	text-align: center;
+	vertical-align: middle;*/
+	text-transform: lowercase;
+	text-shadow: 1px 1px 1px #fff;
+}
+[calendarContainer] td.tsCalendarHeader{ 
+	font-weight: bold; 
+	color: #000; 
+}
+[calendarContainer] td.tsCalendarWeekDay,
+[calendarContainer] td.tsCalendarWeekNum,
+[calendarContainer] td.tsCalendarToday, 
+[calendarContainer] td.tsCalendarSelected,
+[calendarContainer] td.tsCalendarDayoff, 
+[calendarContainer] td.tsCalendarFully,
+[calendarContainer] td.tsCalendarPartly, 
+[calendarContainer] td.tsCalendarPast, 
+[calendarContainer] td.tsCalendarEmpty, 
+[calendarContainer] td.tsCalendarDate{
+	border: 1px solid #ecf0f1;
+	height: [cell_height]%;
+	/*position: relative;*/
+	text-align: center;
+	vertical-align: middle;
+	width: [cell_width]%;
+}
+[calendarContainer] td.tsCalendarDayoff{
+	background-color: #A37CA3;
+	color: #fff;
+	font-size: inherit;
+	text-shadow: 1px 1px 1px #660000;
+}
+[calendarContainer] td.tsCalendarFully{
+	background-color: #da384b;
+	color: #fff;
+}
+[calendarContainer] td.tsCalendarPast{
+	background-color: #DDE4E6;
+	color: #BFBFBF;
+	text-shadow: 1px 1px 1px #fff;
+}
+[calendarContainer] td.tsCalendarEmpty{
+	background-color: #ecf0f1;
+}
+[calendarContainer] td.tsCalendarWeekNum{
+	text-shadow: 1px 1px 1px #fff;
+}
+[calendarContainer] td.tsCalendarDate, 
+[calendarContainer] td.tsCalendarToday,
+[calendarContainer] td.tsCalendarSelected{ 
+	cursor: pointer;
+	background-color: #fff;
+}
+[calendarContainer] td.tsCalendarDate:hover,
+[calendarContainer] td.tsCalendarDateHover{
+	color: #bbb;
+}
+[calendarContainer] td.tsCalendarToday{ 
+	background-color: #58a222;
+	color: #fff;
+	text-shadow: 1px 1px 1px #2B4E11;
+}
+[calendarContainer] td.tsCalendarSelected{ 
+	background-color: #0082CE;
+	color: #fff;
+	text-shadow: 1px 1px 1px #004269;
+}
+[calendarContainer] td.tsCalendarPartly{
+	background-color: #FFCC00;
+	color: #fff;
+}
+[calendarContainer] .tsCalendarDateOuter{
+	display: table;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	
+	position: relative;
+}
+[calendarContainer] .tsCalendarDateInner{
+	/*display: table-cell;*/
+	vertical-align: middle;
+	text-align: center;
+}
+
+[calendarContainer] .tsLegendContainer{
+	font-size: 0.9em;
+	overflow: hidden;
+	width: 100%;
+}
+[calendarContainer] .tsLegendItem{
+	float: left;
+	width: 47%;
+	position: relative;
+	line-height: 20px;
+	margin: 0 0 5px 0;
+	background: #fff;
+	padding: 5px 0;
+	border-radius: 0 15px 15px 0;
+	overflow: hidden;
+}
+[calendarContainer] .tsLegendColor{
+	width: 18px;
+	height: 18px;
+	display: inline-block;
+	vertical-align: bottom;
+	border-radius: 50%;
+	position: absolute;
+	top: 5px;
+	left: 4px;
+}
+[calendarContainer] .tsLegendLabel{
+	margin: 0 0 0 5px;
+}
+[calendarContainer] .tsLegendItem:nth-child(even){
+	float: right;
+	border-radius: 15px 0 0 15px;
+}
+[calendarContainer] .tsLegendItem:nth-child(odd) .tsLegendColor{
+	left: auto;
+	right: 4px;
+}
+[calendarContainer] .tsLegendItem:nth-child(even) .tsLegendLabel{
+	float: right;
+	margin: 0 5px 0 0;
+}
+[calendarContainer] .tsLegendAvailable{
+	background-color: #fff;
+	border: solid 1px #DDE4E6;
+}
+[calendarContainer] .tsLegendFully{
+	background-color: #da384b;
+	border: solid 1px #da384b;
+}
+[calendarContainer] .tsLegendPartly{
+	background-color: #FFCC00;
+	border: solid 1px #FFCC00;
+}
+[calendarContainer] .tsLegendToday{
+	background-color: #58a222;
+	border: solid 1px #58a222;
+}
+[calendarContainer] .tsLegendSelected{
+	background-color: #0082CE;
+	border: solid 1px #0082CE;
+}
+[calendarContainer] .tsLegendDayoff{
+	background-color: #A37CA3;
+	border: solid 1px #A37CA3;
+}
+[calendarContainer] .tsLegendPast{
+	background-color: #DDE4E6;
+	border: solid 1px #DDE4E6;
+}

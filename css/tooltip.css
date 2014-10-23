@@ -1,0 +1,40 @@
+/*  CSS Document                             */
+/*  Written by Chris Converse for lynda.com  */
+
+/* Style */
+body { font: 12px Arial; margin: 0px; padding: 0px 20px; background-color: #03658b; }
+h1 { margin: 0 0 1em 0; color: #03658a; font-size: 1.7em; font-weight: normal; }
+h2 { margin: 0 0 .5em 0; color: #03658a; font-size: 1.3em; }
+p { margin: 0 0 1em 0; line-height: 1.5em; }
+a { color: #00a8ff; text-decoration: none; }
+aside p { color: #777; }
+footer { font-size: .9em; }
+
+/* Layout */
+.page { max-width: 980px; #width: 980px; margin: 0px auto; padding: 0px; }
+header { position: relative; height: 28px; margin: 0px; padding-top: 60px; background: url(../../images/banner.jpg) no-repeat 50% 0px; }
+header a.logo { width: 120px; height: 50px; position: absolute; top: 15px; left: 15px; background: url(../../images/logo.png) no-repeat 0px 0px; display: block; }
+nav { background-color: rgba(0,0,0,.4); }
+article { margin: 0px; padding: 25px; background-color: #fff; }
+aside { width: 200px; float: right; margin: 0px 0px 10px 40px; padding: 0px 0px 0px 20px; border-left: 2px solid #ccc; }
+aside p { margin: 0px; }
+footer { border-top: 1px solid #ddd; margin: 0px; padding: 10px 25px 10px 10px; color: #72abb6; }
+.clear { clear: both; line-height: 1px; }
+
+
+/* Tooltip */
+
+#tooltip_container {
+	color: #fff;
+	position: absolute;
+	display: none;
+	padding: 20px;
+	max-width: 200px; /* need i.e. rule */
+	background-color: rgba(0,0,0,.85);
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+}
+
+.tooltip-source-html { display: none; }
+

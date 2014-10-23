@@ -1,0 +1,9 @@
+.tsContainer .tsIconAdd{
+	background: url([URL]app/web/img/frontend/ts-add.png) 0 0 no-repeat;
+}
+.tsContainer .tsIconRemove{
+	background: url([URL]app/web/img/frontend/ts-remove.png) 0 0 no-repeat;
+}
+.tsContainer .tsIconDisabled{
+	background: url([URL]app/web/img/frontend/ts-disabled.png) 0 0 no-repeat;
+}

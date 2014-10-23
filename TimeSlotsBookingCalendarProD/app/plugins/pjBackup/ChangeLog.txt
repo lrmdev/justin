@@ -1,0 +1,25 @@
+Version 1.0.5
+---------------------------------------
+	- Added 'database.sql'
+	- Database queries at 'pjActionBeforeInstall' now are moved into the 'database.sql'
+	- Folders permission checks now are moved from 'pjActionBeforeInstall' to 'pjActionCheckInstall' (require framework 1.0.13)
+	
+Version 1.0.4
+---------------------------------------
+	- 'error_bodies_ARRAY_PBU01' label was fixed
+	
+Version 1.0.3
+---------------------------------------
+	- Security improvements
+	
+Version 1.0.2
+---------------------------------------
+	- Labels was added to installer
+	
+Version 1.0.1
+---------------------------------------
+	- 
+	
+Version 1.0.0
+---------------------------------------
+	- initial

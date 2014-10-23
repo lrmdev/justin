@@ -1,0 +1,18 @@
+.tsContainer .tsWeeklyLegendAvailable,
+.tsContainer a.tsWeeklyIconAvailable{
+	background: #fff url([URL]app/web/img/frontend/ts-w-available.png) 0 0 no-repeat;
+}
+.tsContainer .tsWeeklyLegendBooked,
+.tsContainer .tsWeeklyIconBooked{
+	background: url([URL]app/web/img/frontend/ts-w-booked.png) 0 0 no-repeat;
+}
+.tsContainer .tsWeeklyLegendSelected,
+.tsContainer a.tsWeeklyIconSelected{
+	background: url([URL]app/web/img/frontend/ts-w-selected.png) 0 0 no-repeat;
+}
+.tsContainer a.tsWeeklyNavPrev{
+	background: transparent url([URL]app/web/img/frontend/as-arrow-left.png) center center no-repeat;
+}
+.tsContainer a.tsWeeklyNavNext{
+	background: transparent url([URL]app/web/img/frontend/as-arrow-right.png) center center no-repeat;
+}
